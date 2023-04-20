@@ -4,32 +4,13 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="e0624a64-5fc8-4ad6-8d3b-8229d7711bab" name="Changes" comment="models, repo, etc. created">
+    <list default="true" id="e0624a64-5fc8-4ad6-8d3b-8229d7711bab" name="Changes" comment="restarting from scratch">
       <change afterPath="$PROJECT_DIR$/HELP.md" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/mvnw" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/mvnw.cmd" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/src/main/java/com/example/vg/VgApplication.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/example/vg/config/SecurityConfiguration.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/example/vg/controller/EmployeeController.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/example/vg/controller/MainController.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/example/vg/controller/UserRegistrationController.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/example/vg/dto/UserRegistrationDto.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/example/vg/model/Employees.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/example/vg/model/Role.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/example/vg/model/User.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/example/vg/repository/EmployeeRepository.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/example/vg/repository/UserRepository.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/example/vg/service/EmployeeService.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/example/vg/service/EmployeeServiceImpl.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/example/vg/service/UserService.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/example/vg/service/UserServiceImpl.java" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/src/main/resources/application.properties" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/templates/index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/templates/login.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/templates/new_employee.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/templates/registration.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/templates/update_employee.html" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/src/test/java/com/example/vg/VgApplicationTests.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__com_fasterxml_classmate_1_5_1.xml" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__com_jayway_jsonpath_json_path_2_7_0.xml" beforeDir="false" />
@@ -251,7 +232,14 @@
       <option name="project" value="LOCAL" />
       <updated>1680697327667</updated>
     </task>
-    <option name="localTasksCounter" value="10" />
+    <task id="LOCAL-00010" summary="restarting from scratch">
+      <created>1681956517288</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1681956517288</updated>
+    </task>
+    <option name="localTasksCounter" value="11" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -272,7 +260,8 @@
     <MESSAGE value="commit" />
     <MESSAGE value="commit2" />
     <MESSAGE value="models, repo, etc. created" />
-    <option name="LAST_COMMIT_MESSAGE" value="models, repo, etc. created" />
+    <MESSAGE value="restarting from scratch" />
+    <option name="LAST_COMMIT_MESSAGE" value="restarting from scratch" />
   </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
     <SUITE FILE_PATH="coverage/vg$VgApplication.ic" NAME="VgApplication Coverage Results" MODIFIED="1680762614608" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
